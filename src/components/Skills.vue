@@ -24,6 +24,7 @@ export default {
       skills:[
         {"skill": "Vue.js"},
         {"skill": "Frontend Developer"},
+        {"skill": "Python"},
     ]
     }
   },
